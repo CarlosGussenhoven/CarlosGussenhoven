@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarlosGussenhoven
-- 👀 I’m interested in Editing the Github version of ToDI
+- 👀 I’m interested in Editing the Github version of ToDI, cuurently available https://test.todi.cls.ru.nl
 - 🌱 I’m currently learning how to do that.
 - 💞️ I’m looking to collaborate on making changes to the title page and the design of the exercise page.
 - 📫 How to reach me via carlos.gussenhoven@ru.nl
